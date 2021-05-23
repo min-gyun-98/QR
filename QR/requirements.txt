@@ -1,4 +1,4 @@
 Flask~=2.0.0
 gunicorn~=20.1.0
 opencv-python-headless~=4.5.2.52
-pyzbar~=0.1.8
+#pyzbar~=0.1.8
