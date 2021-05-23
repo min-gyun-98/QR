@@ -1,6 +1,7 @@
 from flask import Flask, render_template, Response
 from pyzbar import pyzbar
 import cv2
+import os
 
 app = Flask(__name__)
 
